@@ -94,7 +94,7 @@ My setup, which enables me to use Tip seamlessly, is:
 * An extra mouse button emits `Cmd + F3`
 * 4-finger touch on the trackpad emits `Cmd + F3`
 
-I use [Noo.app](https://gumroad.com/l/tqqlk) to configure my mouse buttons and trackpad.
+I use [Noo.app](https://github.com/tanin47/noo) to configure my mouse buttons and trackpad.
 
 
 Privacy
