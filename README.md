@@ -23,6 +23,8 @@ Tip is used within Chrome.
 
 ![Convert seconds from epoch to time and copy](https://media.giphy.com/media/f952ZuRG9kqCoxGt8v/giphy.gif)
 
+If you've installed Tip, try converting seconds from epoch to time by triggering Tip on the following string: `1577733633`
+
 ### Open Github code search on the selected text
 
 Tip is used within Sublime.
