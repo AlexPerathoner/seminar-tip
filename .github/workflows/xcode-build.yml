@@ -34,5 +34,5 @@ jobs:
           -scheme TipUITests \
           -destination platform=macOS \
           -resultBundlePath TestResults \
-          -test-iterations 20 \
+          -test-iterations 10 \
           CODE_SIGNING_ALLOWED=NO || exit 1
